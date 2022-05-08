@@ -9,6 +9,6 @@
 - 🔭 I’m currently working on Back-End development.
 - 🌱 I’m currently learning English.
 - 👯 I’m looking to collaborate on development of a website.
-- 🤔 I’m looking for help with nothing.
+- 🤔 I’m looking for help with Dapp.
 - 💬 Ask me about anything.
 - 📫 Contact us via e-mail at fairymanning@gmail.com.
