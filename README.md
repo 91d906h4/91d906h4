@@ -33,4 +33,4 @@
         </tr>
     </table>
 </p>
-<a href="https://github.com/91d906h4"><img sr="https://activity-graph.herokuapp.com/graph?username=91d906h4&theme=github" /></a>
+<a href="https://github.com/91d906h4"><img src="https://activity-graph.herokuapp.com/graph?username=91d906h4&theme=react-dark" /></a>
