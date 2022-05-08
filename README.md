@@ -20,7 +20,6 @@
             <td>
                 <a href="https://github.com/91d906h4/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=91d906h4&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Samir's Github Stats" height="180rem" /></a>
             </td>
-
             <td> 
                 <a href="https://github.com/91d906h4"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=91d906h4&layout=compact&theme=tokyonight&hide_border=true" height="180rem"/></a>
             </td>
