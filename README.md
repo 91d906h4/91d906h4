@@ -11,6 +11,6 @@
 - 👯 I’m looking to collaborate on development of a website.
 - 🤔 I’m looking for help with nothing.
 - 💬 Ask me about anything.
-- 📫 Contact us via e-mail at [fairymanning@gmail.com](fairymanning@gmail.com).
+- 📫 Contact us via e-mail at [fairymanning@gmail.com](mail-to: fairymanning@gmail.com).
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
