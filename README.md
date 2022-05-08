@@ -6,9 +6,24 @@
     <a href="https://leetcode.com/91d906h4/"><img src="https://img.shields.io/badge/-LeetCode-yellow" /></a>
 </p>
 
-- 🔭 I’m currently working on Back-End development.
-- 🌱 I’m currently learning English.
-- 👯 I’m looking to collaborate on development of a website.
-- 🤔 I’m looking for help with Dapp.
-- 💬 Ask me about anything.
-- 📫 Contact us via e-mail at fairymanning@gmail.com.
+🔭 I’m currently working on Back-End development.
+🌱 I’m currently learning English.
+👯 I’m looking to collaborate on development of a website.
+🤔 I’m looking for help with Dapp.
+💬 Ask me about anything.
+📫 Contact us via e-mail at fairymanning@gmail.com.
+
+📈 GitHub Stats
+<p align="center">
+    <table>
+        <tr>
+            <td>
+                <a href="https://github.com/91d906h4/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=91d906h4&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Samir's Github Stats" height="180rem" /></a>
+            </td>
+
+            <td> 
+                <a href="https://github.com/91d906h4"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=91d906h4&layout=compact&theme=tokyonight&hide_border=true" height="180rem"/></a>
+            </td>
+        </tr>
+    </table>
+</p>
