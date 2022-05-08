@@ -30,6 +30,8 @@
             <td> 
                 <a href="https://github.com/91d906h4"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=91d906h4&layout=compact&hide_border=true" height="180rem" /></a>
             </td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://github.com/91d906h4"><img sr="https://activity-graph.herokuapp.com/graph?username=91d906h4&theme=github" /></a>
             </td>
