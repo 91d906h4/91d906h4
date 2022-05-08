@@ -1,7 +1,7 @@
 # Hi, this is 91d906h4!
 
 <p style="text-align: left">
-    <a href="https://www.npmjs.com/~91d906h4"><img src="https://ja.wikipedia.org/wiki/Npm_(%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E7%AE%A1%E7%90%86%E3%83%84%E3%83%BC%E3%83%AB)#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Npm-logo.svg" /></a>
+    <a href="https://www.npmjs.com/~91d906h4"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1920px-Npm-logo.svg.png" /></a>
 </p>
 
 <!--
