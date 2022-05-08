@@ -1,7 +1,7 @@
 # Hi, this is 91d906h4!
 
 <p style="text-align: left">
-    <a href="https://www.npmjs.com/~91d906h4" target="_blank"><img src="https://img.shields.io/badge/-npmjs-red" /></a>
+    <a href="https://www.npmjs.com/~91d906h4"><img src="https://img.shields.io/badge/-npmjs-red" /></a>
 </p>
 
 <!--
