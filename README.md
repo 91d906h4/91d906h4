@@ -13,6 +13,8 @@
 💬 Ask me about anything.<br>
 📫 Contact us via e-mail at fairymanning@gmail.com.<br>
 
+<hr>
+
 📈 GitHub Stats
 <p align="center">
     <table>
