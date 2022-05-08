@@ -6,12 +6,12 @@
     <a href="https://leetcode.com/91d906h4/"><img src="https://img.shields.io/badge/-LeetCode-yellow" /></a>
 </p>
 
-🔭 I’m currently working on Back-End development.
-🌱 I’m currently learning English.
-👯 I’m looking to collaborate on development of a website.
-🤔 I’m looking for help with Dapp.
-💬 Ask me about anything.
-📫 Contact us via e-mail at fairymanning@gmail.com.
+🔭 I’m currently working on Back-End development.<br>
+🌱 I’m currently learning English.<br>
+👯 I’m looking to collaborate on development of a website.<br>
+🤔 I’m looking for help with Dapp.<br>
+💬 Ask me about anything.<br>
+📫 Contact us via e-mail at fairymanning@gmail.com.<br>
 
 📈 GitHub Stats
 <p align="center">
