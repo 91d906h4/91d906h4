@@ -3,7 +3,6 @@
 <p style="text-align: left">
     <a href="https://github.com/91d906h4"><img src="https://img.shields.io/badge/-github-lightgrey" / ></a>
     <a href="https://www.npmjs.com/~91d906h4"><img src="https://img.shields.io/badge/-npmjs-red" /></a>
-    https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F91d906h4
 </p>
 
 - 🔭 I’m currently working on 
