@@ -1,6 +1,6 @@
 # Hello👋 This is 91d906h4!
 
-![GitHub]("https://raw.githubusercontent.com/91d906h4/91d906h4/main/GitHub_wallpaper.png")
+<img src="https://raw.githubusercontent.com/91d906h4/91d906h4/main/GitHub_wallpaper.png" />
 
 <p align="left">
     <a href="https://github.com/91d906h4"><img src="https://img.shields.io/badge/-github-lightgrey" / ></a>
