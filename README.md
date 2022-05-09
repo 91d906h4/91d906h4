@@ -13,6 +13,8 @@
     <a href="https://twitter.com/91d906h4"><img src="https://img.shields.io/twitter/follow/91d906h4?label=Twitter&logo=twitter&style=flat" /></a>
 </p>
 
+<hr>
+
 🔭 I’m currently working on Back-End development.<br>
 🌱 I’m currently learning English.<br>
 👯 I’m looking to collaborate on development of a website.<br>
