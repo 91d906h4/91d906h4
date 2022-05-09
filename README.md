@@ -10,7 +10,6 @@
 <p align="left">
     <a href="https://github.com/91d906h4"><img src="https://komarev.com/ghpvc/?username=91d906h4" /></a>
     <a href="https://github.com/91d906h4"><img src="https://img.shields.io/github/followers/91d906h4?label=follow&logo=github&style=flat" / ></a>
-    <a href="https://twitter.com/91d906h4"><img src="https://img.shields.io/twitter/follow/91d906h4?label=Twitter&logo=twitter&style=flat" /></a>
 </p>
 
 🙋🏻‍♂️🙋🏻‍♀️ Self-Introduction<br>
