@@ -17,12 +17,12 @@ Lorem ipsum dolor sit amet🔥! consectetur adipiscing elit📑, sed do eiusmod 
 
 <hr>
 
-🔭 I’m currently working on Back-End development.<br>
-🌱 I’m currently learning English.<br>
-👯 I’m looking to collaborate on development of a website.<br>
-🤔 I’m looking for help with Dapp.<br>
-💬 Ask me about anything.<br>
-📫 Contact us via e-mail at fairymanning@gmail.com.<br>
+- 🔭 I’m currently working on Back-End development.<br>
+- 🌱 I’m currently learning English.<br>
+- 👯 I’m looking to collaborate on development of a website.<br>
+- 🤔 I’m looking for help with Dapp.<br>
+- 💬 Ask me about anything.<br>
+- 📫 Contact us via e-mail at fairymanning@gmail.com.<br>
 
 <hr>
 
