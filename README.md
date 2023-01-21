@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet🔥! consectetur adipiscing elit📑, sed do eiusmod 
         </tr>
     </table>
 </p>
-<a href="https://github.com/91d906h4"><img src="https://activity-graph.herokuapp.com/graph?username=91d906h4&theme=react-dark" /></a>
+<a href="https://github.com/91d906h4"><img src="https://github-readme-activity-graph.cyclic.app//graph?username=91d906h4&theme=react-dark" /></a>
 
 <hr>
 
