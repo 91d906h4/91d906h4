@@ -19,10 +19,10 @@ Lorem ipsum dolor sit amet🔥! consectetur adipiscing elit📑, sed do eiusmod 
 <hr>
 
 📑 About Me<br>
-- 🔭 I’m currently working on Back-End development.<br>
-- 🌱 I’m currently learning English.<br>
-- 👯 I’m looking to collaborate on development of a website.<br>
-- 🤔 I’m looking for help with Dapp.<br>
+- 🔭 I’m currently working on underlying technology, like compiler, machine language, algorithm, etc.<br>
+- 🌱 I’m currently learning compiler design.<br>
+- 👯 I’m looking to collaborate on development of a 8086.<br>
+- 🤔 I’m looking for help with ic design.<br>
 - 💬 Ask me about anything.<br>
 
 <hr>
