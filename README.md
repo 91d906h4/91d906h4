@@ -14,8 +14,13 @@
 </p>
 
 🙋🏻‍♂️ Self-Introduction<br>
-Lorem ipsum dolor sit amet🔥! consectetur adipiscing elit📑, sed do eiusmod tempor `incididunt` ut `labore❗` et dolore magna aliqua🤗. Ut enim ad *minim* veniam🧪, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo **consequat**📚. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur👩🏻‍💻. Excepteur sint occaecat cupidatat non proident🌐, sunt in culpa qui officia deserunt mollit ~~anim~~ id est laborum💯.
+Hello, my name is 91d906h4 and I am a student of Computer Science 💻.
 
+I am deeply passionate about all aspects of the field, from compiler design to web3 🌐.
+
+I find the endless possibilities of programming and web3 to be both intellectually stimulating and creatively rewarding, and I am eager to continue to learn and grow in this exciting field 💡.
+
+Outside of my studies, I enjoy learning new language (e.g. Japanese⛩️), which allows me to recharge and bring a fresh perspective to my work. I'm thrilled to be on this journey and look forward to the opportunities and challenges that lie ahead.
 <hr>
 
 📑 About Me<br>
