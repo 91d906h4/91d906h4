@@ -44,7 +44,8 @@ Outside of my studies, I enjoy learning new language (e.g. Japanese⛩️), whic
         </tr>
     </table>
 </p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=91d906h4&bg_color=ffffff&color=000000&line=82d9d7&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=91d906h4&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
