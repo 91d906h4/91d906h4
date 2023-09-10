@@ -25,7 +25,7 @@ Outside of my studies, I enjoy learning new language (e.g. Japanese⛩️), whic
 📑 About Me<br>
 - 🔭 I’m currently working on underlying technology, like compiler, machine language, algorithm, etc.<br>
 - 🌱 I’m currently learning compiler design.<br>
-- 👯 I’m looking to collaborate on development of a 8086.<br>
+- 👯 I’m looking to collaborate on development of the compiler.<br>
 - 🤔 I’m looking for help with IC design.<br>
 - 💬 Ask me about anything.<br>
 
